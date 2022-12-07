@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PptGenerator", "PptGenerator\PptGenerator.csproj", "{8AF99FBE-09CF-453E-854A-36AB3C57CE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF99FBE-09CF-453E-854A-36AB3C57CE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF99FBE-09CF-453E-854A-36AB3C57CE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF99FBE-09CF-453E-854A-36AB3C57CE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF99FBE-09CF-453E-854A-36AB3C57CE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676059B0-E2A5-410D-8427-45BF1E82983A}
+	EndGlobalSection
+EndGlobal
